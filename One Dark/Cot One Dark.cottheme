@@ -3,13 +3,13 @@
     "color" : "#c7894d"
   },
   "background" : {
-    "color" : "#1e2027"
+    "color" : "#1a1d23"
   },
   "characters" : {
     "color" : "#84bc60"
   },
   "commands" : {
-    "color" : "#deb660"
+    "color" : "#e7b25d"
   },
   "comments" : {
     "color" : "#6f7585"
@@ -18,19 +18,19 @@
     "color" : "#808080"
   },
   "invisibles" : {
-    "color" : "#50545c"
+    "color" : "#4a4c52"
   },
   "keywords" : {
-    "color" : "#bb55da"
+    "color" : "#b951cd"
   },
   "lineHighlight" : {
-    "color" : "#1e2027"
+    "color" : "#1f252e"
   },
   "numbers" : {
     "color" : "#c7894d"
   },
   "selection" : {
-    "color" : "#303440",
+    "color" : "#212932",
     "usesSystemSetting" : false
   },
   "strings" : {
