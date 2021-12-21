@@ -6,6 +6,3 @@ Themes for the fantastic [CotEditor](https://github.com/coteditor/CotEditor)!
 
 ## One Dark
 ![alt text](https://raw.githubusercontent.com/MrKai77/CotEditor-Themes/main/One%20Dark/Screenshot.png)
-
-## Github
-![alt text](https://raw.githubusercontent.com/MrKai77/CotEditor-Themes/main/Github/Screenshot.png)
