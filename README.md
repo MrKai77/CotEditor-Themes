@@ -1,5 +1,5 @@
 # CotEditor Themes
-Themes for the fantastic CotEditor!  
+Themes for the fantastic [CotEditor](https://github.com/coteditor/CotEditor)!  
 Open a pull request to add your own theme!
 
 ## Tokyo Night
