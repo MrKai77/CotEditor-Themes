@@ -7,3 +7,6 @@ Open a pull request to add your own theme!
 
 ## One Dark
 ![alt text](https://github.com/MrKai77/CotEditor-Themes/blob/main/One%20Dark/Screenshot.png)
+
+## Github
+![alt text](https://github.com/MrKai77/CotEditor-Themes/blob/main/Github/Screenshot.png)
